@@ -1,6 +1,6 @@
 {
   "name": "hexo-hrefmd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "auto set md to html in links for hexo",
   "main": "index.js",
   "scripts": {
