@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rozbo/hexo-herfmd.git"
+    "url": "git+https://github.com/Rozbo/hexo-hrefmd.git"
   },
   "keywords": [
     "hexo",
@@ -19,7 +19,7 @@
   "author": "rozbo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Rozbo/hexo-herfmd/issues"
+    "url": "https://github.com/Rozbo/hexo-hrefmd/issues"
   },
-  "homepage": "https://github.com/Rozbo/hexo-herfmd#readme"
+  "homepage": "https://github.com/Rozbo/hexo-hrefmd#readme"
 }
